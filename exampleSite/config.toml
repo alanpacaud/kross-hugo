@@ -2,7 +2,7 @@ baseURL = "https://shiatsuki.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Shiatsuki | Marie Poidevin Praticienne"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -21,7 +21,7 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "Alan Pacaud"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "steve.fruits@email.com"
