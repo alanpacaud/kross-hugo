@@ -4,16 +4,16 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Shiatsuki | Marie Poidevin Praticienne"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "accueil"
+name = "Accueil"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "soins"
+name = "Soins & Prestations"
 weight = 3
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
+URL = "actu"
+name = "Actualités"
 weight = 4
 [[menu.main]]
 URL = "contact"
