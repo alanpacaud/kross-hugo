@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Shiatsuki | Marie Poidevin Praticienne"
 [[menu.main]]
-URL = "accueil"
-name = "Accueil"
-weight = 2
-[[menu.main]]
 URL = "soins"
 name = "Soins & Prestations"
 weight = 3
