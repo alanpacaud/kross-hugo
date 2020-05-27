@@ -5,9 +5,8 @@ banner:
 # about
 about:
   enable : true
-  item:
-    - logo: "images/home1.png"
-      content: "Ancienne sportive de haut niveau en roller de vitesse,
+  logo: "images/home1.png"
+  content: "Ancienne sportive de haut niveau en roller de vitesse,
       le dépassement de soi est une notion que j'ai rendu concrète pendant des années.
       Au croisement de recherches et de rencontres, j'ai choisi de suivre l'enseignement du shiatsu.
       C’est une technique douce visant à soulager des problématiques physiques, mentales et émotionnelles.
