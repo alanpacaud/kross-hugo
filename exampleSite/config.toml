@@ -25,7 +25,7 @@ google_analytics_id = ""
 home = "Home"
 logo = "images/logomapishu.png"
 phone = "+33 07 67 07 56 92"
-theme_color = "#1C1C1C"
+theme_color = "#FFFFFF"
 [params.contact]
 enable = true
 form_action = "#"
