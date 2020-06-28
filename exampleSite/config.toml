@@ -4,17 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Mapishu"
 [[menu.main]]
-URL = "shiatsu"
-name = "Shiatsu"
-weight = 3
-[[menu.main]]
 URL = "soins"
 name = "Autres Soins"
-weight = 4
+weight = 2
+[[menu.main]]
+URL = "shiatsu"
+name = "Shiatsu"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 3
 [params]
 address = "42 rue de la gare, 44140 Monbert, France"
 author = "Marie Poidevin"
