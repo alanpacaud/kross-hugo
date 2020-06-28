@@ -4,17 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Mapishu"
 [[menu.main]]
-URL = "soins"
-name = "Autres Soins"
-weight = 2
-[[menu.main]]
 URL = "shiatsu"
 name = "Shiatsu"
-weight = 1
+weight = 3
+[[menu.main]]
+URL = "soins"
+name = "Autres Soins"
+weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 5
 [params]
 address = "42 rue de la gare, 44140 Monbert, France"
 author = "Marie Poidevin"
@@ -25,7 +25,7 @@ google_analytics_id = ""
 home = "Home"
 logo = "images/logomapishu.png"
 phone = "+880 2544 658 256"
-theme_color = "#F2E6B6"
+theme_color = "#fff9c2"
 [params.contact]
 enable = true
 form_action = "#"
