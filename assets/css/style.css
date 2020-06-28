@@ -13,13 +13,13 @@ VERSION: Versoin Number
 }
 @font-face {
   font-family: CaviarDreams;
-  src: url(../fonts/CaviarDreams.ttf);
+  src: url(../fonts/CaviarDreams.ttf) format("truetype");
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Junette;
-  src: url(../fonts/JunetteDEMO-Regular.ttf);
+  src: url(../fonts/JunetteDEMO-Regular.ttf) format("truetype");
   font-style: normal;
   font-display: swap;
 }
