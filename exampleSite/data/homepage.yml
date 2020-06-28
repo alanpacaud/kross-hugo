@@ -6,12 +6,10 @@ banner:
 about:
   enable : true
   logo: "images/home1.png"
-  content: "Ancienne sportive de haut niveau en roller de vitesse,
-      le dépassement de soi est une notion que j'ai rendu concrète pendant des années.
-      Au croisement de recherches et de rencontres, j'ai choisi de suivre l'enseignement du shiatsu.
-      C’est une technique douce visant à soulager des problématiques physiques, mentales et émotionnelles.
-      Les fondements théoriques de ce soin corporel Japonais sont issus de l’énergétique Chinoise.
-      J’enrichie mon savoir-faire en suivant régulièrement des formations afin de m’adapter à vos besoins."
+  title: "Marie Poidevin"
+  content: "Après 8 ans de sport de haut niveau, j'ai dû ré-apprendre à écouter mon corps, à respecter mon rythme. <br>
+  Le shitsu est ma façon d'accompagner chacun.e à reprendre contact avec le corps. En prendre soin pour recréer le lien
+   entre nos ressentis et nos besoins."
   button:
     enable : true
     label : "know more"
