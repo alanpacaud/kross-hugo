@@ -9,12 +9,24 @@ VERSION: Versoin Number
   font-family: bwnistaint-xbd;
   src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
   font-style: normal;
-  font-display: swap
+  font-display: swap;
+}
+@font-face {
+  font-family: CaviarDreams;
+  src: url(../fonts/CaviarDreams.ttf);
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Junette;
+  src: url(../fonts/JunetteDEMO-Regular.ttf);
+  font-style: normal;
+  font-display: swap;
 }
 
 body {
   line-height: 1.2;
-  font-family: roboto, sans-serif;
+  font-family: CaviarDreams, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #1C1C1C;
@@ -26,7 +38,7 @@ p {
   //color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: roboto, sans-serif
+  font-family: CaviarDreams, sans-serif;
 }
 
 h1,
@@ -227,7 +239,7 @@ a:hover {
 
 .section-title {
   margin-bottom: 80px;
-  font-family: bwnistaint-xbd;
+  font-family: Junette, sans-serif;
   color: #bd004a;
 }
 
