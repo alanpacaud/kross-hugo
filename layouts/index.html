@@ -54,6 +54,7 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.about }}
           <img src="{{ .logo | relURL }}">
+          <br>
           <h2 class="section-title">{{.title}}</h2>
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
           {{ if .button.enable }}
