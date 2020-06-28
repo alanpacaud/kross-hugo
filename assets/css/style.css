@@ -205,6 +205,9 @@ select:focus {
   outline: 0
 }
 
+a.nav-link{
+  color: #BD004A!important;
+}
 a.text-dark:hover {
   color: var(--primary-color) !important
 }
