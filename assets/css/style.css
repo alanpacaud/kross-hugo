@@ -876,3 +876,8 @@ blockquote {
 .filter-controls li.active {
   font-weight: 700
 }
+
+/* Personnal CSS*/
+.ti-icon{
+  color: #bd004a;
+}
