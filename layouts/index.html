@@ -54,7 +54,7 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.about }}
           <img src="{{ .logo | relURL }}">
-          <h1>{{.title}}</h1>
+          <h2 class="section-title">{{.title}}</h2>
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
           {{ if .button.enable }}
           {{ with .button }}
@@ -278,23 +278,6 @@
   <!-- /blog -->
   {{ end }}
 
-{{ define "main" }}
-
-{{ partial "page-title.html" . }}
-
-<!-- blog -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      {{ range .Data.Pages }}
-      {{ .Render "post" }}
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /blog -->
-
-{{ end }}
 
 
 {{ end }}
