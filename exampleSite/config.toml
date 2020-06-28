@@ -2,7 +2,7 @@ baseURL = "https://shiatsuki.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Shiatsuki | Marie Poidevin Praticienne"
+title = "Mapishu"
 [[menu.main]]
 URL = "shiatsu"
 name = "Shiatsu"
@@ -16,16 +16,16 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "42 rue de la gare, 44140 Monbert, France"
 author = "Marie Poidevin"
 copyright = "Copyright &copy; 2020 a site created by [Alan Pacaud](https://github.com/alanpacaud)"
 description = "Praticienne en Shiatsu"
 email = "marie.poidevin@gmail.com"
 google_analytics_id = ""
 home = "Home"
-logo = "images/logo-libellule-final.png"
+logo = "images/logomapishu.png"
 phone = "+880 2544 658 256"
-theme_color = "#41228e"
+theme_color = "#F2E6B6"
 [params.contact]
 enable = true
 form_action = "#"
@@ -46,6 +46,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
+[[params.social]]
+URL = "https://www.facebook.com/mapishiatsu"
+icon = "images/iconefinder_facebook.png"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
