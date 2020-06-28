@@ -53,7 +53,7 @@ icon = "images/iconefinder_facebook.png"
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/mapishiatsu/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
